@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Listening To ASWAYZ Community","Streaming on kick"];
+const statusMessages = ["Listening To Ice Community"];
 
 
 let currentIndex = 0;
